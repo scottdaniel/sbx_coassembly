@@ -4,3 +4,4 @@ channels:
 dependencies:
   - megahit
   - pigz
+  - maxbin2
