@@ -41,7 +41,7 @@ This rule generates co-assambled contigs in the following location: `sunbeam_out
 
 ## Contents
 
- - `requirements.txt` specifies the extension's dependencies
+ - `sbx_coassembly_env.yml` specifies the extension's dependencies
  - `config.yml` contains configuration options that can be specified by the user when running an extension
  - `sbx_template.rules` contains the rules (logic/commands run) of the extension
  
